@@ -1,6 +1,6 @@
-# Segment CRUD
+# Segment App
 
-Segment CRUD
+Segment App
 
 ## Getting Started
 
