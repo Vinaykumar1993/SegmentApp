@@ -1,0 +1,18 @@
+.main_div{
+padding:12px;
+text-align:center;
+	.save_segment{
+	border:1px solid grey;
+	padding:12px;
+	outline:0;
+	line-height:normal;
+	}
+}
+.m-0{
+	margin:0
+}
+.p-0{
+	padding:0;
+}
+@import './components/drawercomponent';
+@import './components/segment';
